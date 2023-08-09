@@ -2,6 +2,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
+
 }
 
 body {
@@ -32,3 +33,4 @@ a {
 img {
   width: 100%;
 }
+
